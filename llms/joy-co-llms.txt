@@ -1,0 +1,53 @@
+# Joy Help Center
+
+> Common Questions
+
+## Joy Parenting Club
+
+- [Milestones | First 30 days](https://help.joy.co/en/articles/16864507-milestones-first-30-days.md)
+- [What is Joy Parenting Club?](https://help.joy.co/en/articles/12883356-what-is-joy-parenting-club.md): Joy Parenting Club
+- [How to Download Joy App](https://help.joy.co/en/articles/12883376-how-to-download-joy-app.md): Joy Parenting Club
+- [How to Update the App and Why it Matters](https://help.joy.co/en/articles/12883819-how-to-update-the-app-and-why-it-matters.md): Joy Parenting Club
+- [Accessing Photos in the Joy App](https://help.joy.co/en/articles/14464777-accessing-photos-in-the-joy-app.md): Joy Parenting Club
+- [Joy Family Circle](https://help.joy.co/en/articles/14977067-joy-family-circle.md): How to use Family Circle to include family members in your Joy app
+- [What is Joy on Call and When to Use it](https://help.joy.co/en/articles/12883885-what-is-joy-on-call-and-when-to-use-it.md): Joy Parenting Club
+- [What is Joy Connect and When to Use it](https://help.joy.co/en/articles/12892581-what-is-joy-connect-and-when-to-use-it.md): Joy Parenting Club
+- [How to Connect to a Live Coach/Expert](https://help.joy.co/en/articles/12883888-how-to-connect-to-a-live-coach-expert.md): Joy Parenting Club
+- [How to Upload Photos/Videos to Chats](https://help.joy.co/en/articles/12883900-how-to-upload-photos-videos-to-chats.md): Joy Parenting Club
+- [How our Experts are Certified](https://help.joy.co/en/articles/12883898-how-our-experts-are-certified.md): Joy Parenting Club
+- [How our Expert AI is Trained](https://help.joy.co/en/articles/12883897-how-our-expert-ai-is-trained.md): Joy Parenting Club
+- [Confidentiality and Informed Consent](https://help.joy.co/en/articles/12892559-confidentiality-and-informed-consent.md): Joy Parenting Club
+- [How to Access Joy Learning Resources](https://help.joy.co/en/articles/12883870-how-to-access-joy-learning-resources.md): Joy Parenting Club
+- [Accessing Joy's Toolkits](https://help.joy.co/en/articles/12883881-accessing-joy-s-toolkits.md): Joy Parenting Club
+- [What is Joy Tracking and How to Use it](https://help.joy.co/en/articles/13130306-what-is-joy-tracking-and-how-to-use-it.md): Joy Parenting Club
+- [Membership Plans and Pricing](https://help.joy.co/en/articles/12883823-membership-plans-and-pricing.md): Joy Parenting Club
+- [How to Cancel Your Subscription](https://help.joy.co/en/articles/12883828-how-to-cancel-your-subscription.md): Joy Parenting Club
+- [Refunds and Refund Policy](https://help.joy.co/en/articles/12883838-refunds-and-refund-policy.md): Joy Parenting Club
+- [How to Get Help and Share Feedback](https://help.joy.co/en/articles/12883851-how-to-get-help-and-share-feedback.md): Joy Parenting Club
+- [Account FAQs](https://help.joy.co/en/articles/12883861-account-faqs.md): Joy Parenting Club
+- [How to Delete Your Account](https://help.joy.co/en/articles/12883864-how-to-delete-your-account.md): Joy Parenting Club
+
+## Bella Baby Photography
+
+- [Gallery Access & Downloads](https://help.joy.co/en/articles/12933554-gallery-access-downloads.md): Bella Baby Photography
+- [Ordering and Pricing](https://help.joy.co/en/articles/12933557-ordering-and-pricing.md): Bella Baby Photography
+- [Shipping & Delivery](https://help.joy.co/en/articles/12933564-shipping-delivery.md): Bella Baby Photography
+
+## Welcome Newborn Photography
+
+- [How Your In-Hospital Newborn Photo Session Works](https://help.joy.co/en/articles/12892631-how-your-in-hospital-newborn-photo-session-works.md): Welcome Newborn Photography
+- [What to Expect from your Photographer](https://help.joy.co/en/articles/12892632-what-to-expect-from-your-photographer.md): Welcome Newborn Photography
+- [Available Product and Packages](https://help.joy.co/en/articles/12892643-available-product-and-packages.md): Welcome Newborn Photography
+- [Welcome Newborn Session Cost](https://help.joy.co/en/articles/12892654-welcome-newborn-session-cost.md): Welcome Newborn Photography
+- [Viewing, Ordering and Purchasing Your Photos](https://help.joy.co/en/articles/12892661-viewing-ordering-and-purchasing-your-photos.md): Welcome Newborn Photography
+- [How to Access Your Online Gallery](https://help.joy.co/en/articles/12892676-how-to-access-your-online-gallery.md): Welcome Newborn Photography
+- [Gallery FAQs](https://help.joy.co/en/articles/12892689-gallery-faqs.md): Welcome Newborn Photography
+
+## Baby Face Portraits
+
+- [Privacy and Gallery Access](https://help.joy.co/en/articles/12933690-privacy-and-gallery-access.md): Baby Face Portraits
+- [Booking Sessions](https://help.joy.co/en/articles/12933692-booking-sessions.md)
+- [Gift Certificates and Feedback](https://help.joy.co/en/articles/12933696-gift-certificates-and-feedback.md): Baby Face Portraits
+- [Album and Image Management](https://help.joy.co/en/articles/12933698-album-and-image-management.md): Baby Face Portraits
+- [Session Details](https://help.joy.co/en/articles/12933700-session-details.md): Baby Face Portraits
+- [Orders and Delivery](https://help.joy.co/en/articles/12933702-orders-and-delivery.md): Baby Face Portraits

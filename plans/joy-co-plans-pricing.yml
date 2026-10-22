@@ -1,0 +1,37 @@
+generated: '2026-10-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://help.joy.co/en/articles/12883823-membership-plans-and-pricing.md
+sources:
+- https://help.joy.co/en/articles/12883823-membership-plans-and-pricing.md
+- https://help.joy.co/en/articles/12933557-ordering-and-pricing.md
+- https://joy.co/plans/member-plans/
+name: Joy pricing
+audience: consumer
+pricing_basis: per-seat
+plans:
+- name: Monthly
+  price_text: $12/month
+  price: 12
+- name: Quarterly
+  price_text: $29 billed every 3 months
+  price: 29
+- name: Annual
+  price_text: $96 billed yearly
+  price: 96
+- name: Monthly
+  price_text: $18 a month
+  price: 18
+- name: Quarterly
+  price_text: $12 a month
+  price: 12
+- name: Quarterly
+  price_text: $36 billed quarterly
+  price: 36
+- name: Annually
+  price_text: $8.25 a month
+  price: 8.25
+- name: Annually
+  price_text: $99 billed annually
+  price: 99
+docs: https://help.joy.co/en/articles/12883823-membership-plans-and-pricing.md

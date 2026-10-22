@@ -1,0 +1,91 @@
+generated: '2026-10-22'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 6
+  own: 6
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - docs
+  - other
+  - website
+hosts:
+- host: api.joy.co
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: joy.co
+  role: api
+  relation: own
+- host: app.joy.co
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: joy.co
+  role: other
+  relation: own
+- host: gift.joy.co
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: joy.co
+  role: other
+  relation: own
+- host: help.joy.co
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - Documentation
+  serves:
+  - docs
+  registrable_domain: joy.co
+  role: docs
+  relation: own
+- host: joy.co
+  found_by:
+  - pointer
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - GettingStarted
+  - Website
+  serves:
+  - docs
+  - cdn
+  vendor: fastly
+  registrable_domain: joy.co
+  role: website
+  relation: own
+- host: shop.joy.co
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  platform: shopify.com
+  registrable_domain: joy.co
+  role: other
+  relation: own
